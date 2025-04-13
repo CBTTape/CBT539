@@ -1,0 +1,11 @@
+2025-04-13 20:34:10.649197 - Received CBT.V505.FILE539.PDS from FILE539.XMI 
+2025-04-13 20:34:10.650020 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE539.PDS, moved to PDS/$$$#DATE
+2025-04-13 20:34:10.650106 - Found $$$INFO.txt (text/plain) in CBT.V505.FILE539.PDS, moved to PDS/$$$INFO
+2025-04-13 20:34:10.650195 - Found $WHODUN.txt (text/plain) in CBT.V505.FILE539.PDS, moved to PDS/$WHODUN
+2025-04-13 20:34:10.650303 - Found $WHODUN@.doc (application/msword) in CBT.V505.FILE539.PDS, moved to docs/$WHODUN@.doc
+2025-04-13 20:34:10.650372 - Found $WHODUN1.xmi (application/xmit) in CBT.V505.FILE539.PDS, moved to PDS/$WHODUN1.xmi
+2025-04-13 20:34:10.657398 - Received SBGOLOB.DSNUSAGE.RPT from $WHODUN1.xmi 
+2025-04-13 20:34:10.657526 - Found SBGOLOB.DSNUSAGE.RPT.txt (text/plain), moved to $WHODUN1/SBGOLOB.DSNUSAGE.RPT
+2025-04-13 20:34:10.657642 - Found @FILE539.txt (text/plain) in CBT.V505.FILE539.PDS, moved to PDS/@FILE539
+2025-04-13 20:34:10.657716 - Found DSNUSAGE.rexx (text/plain) in CBT.V505.FILE539.PDS, moved to PDS/DSNUSAGE
+2025-04-13 20:34:10.657783 - Found DSNUSAGS.txt (text/plain) in CBT.V505.FILE539.PDS, moved to PDS/DSNUSAGS
